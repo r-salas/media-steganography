@@ -1,5 +1,5 @@
 # media-steganography
-Steganography files using into images or audio using the Least Significant Bit.
+Hide files into images or audio samples using the Least Significant Bit.
 
 ## Installation
 ```console
