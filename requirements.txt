@@ -1,0 +1,7 @@
+numpy
+pillow
+typer
+bitstring
+humanize
+tqdm
+pysoundfile
