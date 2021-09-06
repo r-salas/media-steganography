@@ -11,6 +11,7 @@ typer = "*"
 bitstring = "*"
 humanize = "*"
 tqdm = "*"
+pysoundfile = "*"
 
 [dev-packages]
 
